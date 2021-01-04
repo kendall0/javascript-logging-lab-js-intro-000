@@ -1,1 +1,1 @@
-console.log(2 + 3)
+console.log("I must have logged", 1000)
